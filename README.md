@@ -37,7 +37,7 @@ gif.searchGif("gif name", true).then((res) => {
 })
 ```
 
-###Lib using:
+### Lib using:
 * axios
 * typescript
 
