@@ -37,4 +37,8 @@ gif.searchGif("gif name", true).then((res) => {
 })
 ```
 
-## Your api key you can get here: https://developers.giphy.com/
+###Lib using:
+* axios
+* typescript
+
+### Your api key you can get here: https://developers.giphy.com/
