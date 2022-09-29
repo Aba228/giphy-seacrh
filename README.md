@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.rma.ru/upload/iblock/70e/%D0%A4%D0%9E%D0%A2%D0%9E%20%D0%93%D0%98%D0%A4%D0%98%202.gif" /><br>
+  <img src="https://i.gifer.com/3Q6c.gif" /><br>
 </div>
 
 ## Installation
