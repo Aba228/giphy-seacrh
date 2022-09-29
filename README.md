@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.gifer.com/3Q6c.gif" /><br>
+  <img src="https://sun9-57.userapi.com/c841338/v841338707/73b88/LsFa65aRXJI.jpg" /><br>
 </div>
 
 ## Installation
